@@ -11,16 +11,16 @@ gif of Q free:
 ![](png_to_gif.gif)
 
 #### Question 2:
-2) b
+##### 2) b
 ![](2_b.png)
 
-2) c
+##### 2) c
 ![](2_c.png)
 
 #### Question 3:
-implementation a:
+##### implementation a:
 
 ![](3_a.png)
-implementation b:
+##### implementation b:
 
 ![](3_b.png)
