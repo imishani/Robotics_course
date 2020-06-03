@@ -11,3 +11,11 @@ gif of Q free:
 ![](png_to_gif.gif)
 
 #### Question 2:
+
+![](2_b.png)
+![](2_c.png)
+
+#### Question 3:
+
+![](3_a.png)
+![](3_b.png)
