@@ -13,6 +13,7 @@ gif of Q free:
 #### Question 2:
 2) b
 ![](2_b.png)
+
 2) c
 ![](2_c.png)
 
@@ -20,6 +21,6 @@ gif of Q free:
 implementation a:
 
 ![](3_a.png)
-implementation a:
+implementation b:
 
 ![](3_b.png)
