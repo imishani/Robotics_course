@@ -16,7 +16,8 @@ gif of Q free:
 
 ##### 2) c
 ![](2_c.png)
-
+###### using PRM:
+![](PRM.png)
 #### Question 3:
 ##### implementation a:
 
