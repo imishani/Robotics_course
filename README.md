@@ -2,10 +2,10 @@
 
 ### for imishani use only
 
-#### In order to see the implementaion of Task 4 click on the file:
-[imishani ex.04](https://github.com/imishani/Robotics_course/blob/master/ex04.ipynb) 
-#### ex04
 
+## Exercise 04
+### In order to see the implementaion of Task 4 click on the file:
+[imishani ex.04](https://github.com/imishani/Robotics_course/blob/master/ex04.ipynb) 
 #### Question 1:
 gif of Q free:
 
