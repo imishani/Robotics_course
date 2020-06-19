@@ -26,3 +26,12 @@ gif of Q free:
 ##### implementation b:
 
 ![](3_b.png)
+
+
+## Exercise 05
+---------------
+##### question 3:
+![](animation2.mp4)
+
+##### question 4:
+![](animation3.mp4)
