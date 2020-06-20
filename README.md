@@ -31,7 +31,7 @@ gif of Q free:
 ## Exercise 05
 ---------------
 ##### question 3:
-![](animation2.mp4)
+![](animation2.gif)
 
 ##### question 4:
 ![](animation3.mp4)
