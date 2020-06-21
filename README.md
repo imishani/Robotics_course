@@ -30,8 +30,14 @@ gif of Q free:
 
 ## Exercise 05
 ---------------
+### In order to see the implementaion of Task 4 click on the file:
+[imishani ex.05](https://github.com/imishani/Robotics_course/blob/master/ex05.ipynb)
+
 ##### question 3:
+
 ![](animation2.gif)
+![](ex05_ques3.png)
 
 ##### question 4:
-![](animation3.mp4)
+
+![](animation3.gif)
